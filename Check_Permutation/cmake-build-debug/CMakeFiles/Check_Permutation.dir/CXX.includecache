@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shankar/Desktop/Data Structures and Algorithms/Arrays and strings/Check_Permutation/main.cpp
+iostream
+-
+string
+-
+

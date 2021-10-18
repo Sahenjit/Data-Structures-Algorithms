@@ -1,0 +1,3 @@
+/Users/shankar/Desktop/Data Structures and Algorithms/Arrays and strings/Check_Permutation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/shankar/Desktop/Data Structures and Algorithms/Arrays and strings/Check_Permutation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shankar/Desktop/Data Structures and Algorithms/Arrays and strings/Check_Permutation/cmake-build-debug/CMakeFiles/Check_Permutation.dir
